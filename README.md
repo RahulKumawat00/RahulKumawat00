@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Rksirswa/Rksirswa/main/banner.png" alt="Rahul Kumawat Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Abhay Jangir 👋</h1>
+<h1 align="center">Hi, I'm Rahul Khumawat 👋</h1>
 <h3 align="center">Data Scientist Intern | Python & Flask Developer | ML Enthusiast</h3>
 
 ## 💫 About Me  
@@ -19,7 +19,7 @@ I believe technology creates impact — and I’m learning & building every day 
 ---
 
 📬 **Reach Out:**  
-- 📧 Email me:👉📩abhaykjangir@gmail.com for collaboration, projects, or just a chat on tech!
+- 📧 Email me:👉📩rksirswa@gmail.com for collaboration, projects, or just a chat on tech!
 - Or drop a message on GitHub – always open to collaborations and tech talks!
 
 ---
