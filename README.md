@@ -89,8 +89,8 @@ Become a skilled **Data Scientist & ML Engineer**, build impactful AI projects, 
 ---
 
 # 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abhay-jangir-0525b22a6)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhayjangir96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/rahul-kumawat-883ba9259)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rksirswa00@gmail.com)
 
 ---
 
