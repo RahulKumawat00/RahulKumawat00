@@ -19,7 +19,7 @@ I believe technology creates impact — and I’m learning & building every day 
 ---
 
 📬 **Reach Out:**  
-- 📧 Email me:👉📩rksirswa@gmail.com for collaboration, projects, or just a chat on tech!
+- 📧 Email me:👉📩rksirswa00@gmail.com for collaboration, projects, or just a chat on tech!
 - Or drop a message on GitHub – always open to collaborations and tech talks!
 
 ---
@@ -103,25 +103,25 @@ Become a skilled **Data Scientist & ML Engineer**, build impactful AI projects, 
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-trophy.vercel.app/?username=AbhayJangir45&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-trophy.vercel.app/?username=RahulKumawat00&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhayJangir45&theme=neon&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Rahulkumawat&theme=neon&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=AbhayJangir45&theme=neon&hide_border=false&count_private=true&cache_seconds=1)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RahulKumawat00&theme=neon&hide_border=false&count_private=true&cache_seconds=1)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayJangir45&theme=neon&hide_border=false&layout=compact&count_private=true&cache_seconds=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKumawat00&theme=neon&hide_border=false&layout=compact&count_private=true&cache_seconds=1)
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AbhayJangir45&limit=5&theme=neon&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=RahulKumawat00&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbhayJangir45&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rahulkumawat00&icon=7&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
